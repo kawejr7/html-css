@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+header {
+    background-color: #000;
+    height: 269.402px;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 10vw;
+    font-style: normal;
+    font-family: "Passion One" cursive;
+    color: #fff;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: #fff;
+}
+
+p a {
+    font-weight: bolder;
+    text-decoration: none;
+    color: #fff;
+}
+
+p a:hover {
+    text-decoration: underline;
+}
