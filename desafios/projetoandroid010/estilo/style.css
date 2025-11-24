@@ -12,6 +12,15 @@ body {
     padding-bottom: 4px;
 }
 
+header {
+    width: auto;
+    background-image:linear-gradient(to top,#0b650b, #0d770d93);
+    padding: 8px 8px;
+    margin: -10px;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.412);
+    
+}
+
 nav {
     width: 325px;
     padding: 5px;
@@ -22,15 +31,6 @@ nav > a {
     color: #fff;
     padding: 5px 1px 5px 6px;
 
-}
-
-header {
-    width: auto;
-    background-image:linear-gradient(to top,#0b650b, #0d770d93);
-    padding: 8px 8px;
-    margin: -10px;
-    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.412);
-    
 }
 
 main {
